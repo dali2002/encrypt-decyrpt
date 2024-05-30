@@ -4,7 +4,7 @@ from tkinter import filedialog
 name_pattern = [
     "  _  _  _  _  _ ",
     " / \\/ \\/ \\/ \\/ \\",
-    "( BlackSecurity )",
+    "( By Mohamed Ali Mabrouk )",
     " \\_/\\_/\\_/\\_/\\_/"
 ]
 
