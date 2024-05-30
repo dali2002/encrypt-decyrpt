@@ -1,2 +1,2 @@
 # encrypt-decyrpt
-easy methode to encrypt your texts and your can decrypt them too
+Easy methode to encrypt your texts and you can decrypt them too
